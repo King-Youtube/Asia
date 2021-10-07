@@ -61,7 +61,7 @@ print(bcolors.OKGBLUE + """
 """ + bcolors.ENDC)
 
 print(bcolors.OKCYAN + """
-           [ https://github.com/King-Youtube/Asia?organization=King-Youtube&organization=King-Youtube ]
+           [ https://github.com/King-Youtube/Asia ]
            
            
 """ + bcolors.ENDC)
