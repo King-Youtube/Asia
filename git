@@ -1,0 +1,11 @@
+.venv/
+.vscode/
+__pycache__/
+patched_drivers/
+database.db
+database_backup.db
+config.json
+chromedriver.exe
+version.txt
+*.log
+
