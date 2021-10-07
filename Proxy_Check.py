@@ -43,7 +43,7 @@ print(bcolors.OKBLUE + """
 
 print(bcolors.OKCYAN + """
 
-[  https://github.com/King-Youtube/Asia ]
+[  https://github.com/King-Youtube/View ]
 
 """ + bcolors.ENDC)
 
